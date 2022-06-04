@@ -1,5 +1,9 @@
 # Test project 01
 
+## Tech
+
+TS + React + Material UI
+
 ## Install
 
 - `npm i`
